@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "oas2xslx.console": {
+      "commandName": "Project",
+      "commandLineArgs": "-oas C:\\src\\archi\\oas-2-xlsx\\oas-examples\\user-assets-process-api-1.0.9.oas3.generated.json -xlsx user-assets.xlsx"
+    }
+  }
+}

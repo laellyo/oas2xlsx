@@ -17,6 +17,9 @@ nupkg/
 *.userosscache
 *.sln.docstates
 
+# Excel generated files
+*.xslx
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/

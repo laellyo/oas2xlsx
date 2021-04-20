@@ -10,7 +10,7 @@ It is normally multi platforms (Win/MacOS/Linux), but I didn't test it on Linux 
 
 ## Usage
 
-```csharp
+```bash
 oas2xlsx -oas <path of your oas file> -xls <output excel file name>
 ```
 
